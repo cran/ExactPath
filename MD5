@@ -1,0 +1,11 @@
+8a69c7541b814ed078fc78d138cd911e *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+62eb888d18f9ca006acf8f7eaa8c0226 *R/LASSO.exact.R
+7a248ea6b069aa9ee88d4bf682b73bc2 *R/exact.path.R
+482181e4bdc528a4b646b4bd29194468 *R/plot.path.R
+3dca73383988bf0dacfb0ea29fa88a04 *R/print.path.R
+0ce6d35ad3b2fc7483a87e802fcddd04 *man/ExactPath-package.Rd
+e319bba8d19de1d85eeca110b9109c78 *man/LASSO.exact.Rd
+5ef370794b5f15181b1d1225d93c46da *man/exact.path.Rd
+c96b979f7f2c403d4644a39abb3cb4c2 *man/plot.path.Rd
+747898b185cd7cbf91587d503bf3ba3e *man/print.path.Rd
